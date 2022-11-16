@@ -4,7 +4,7 @@ metadata: # kpt-merge: /LiamsBlueprint
   name: LiamsBlueprint
   annotations:
     config.kubernetes.io/local-config: "true"
-    internal.kpt.dev/upstream-identifier: 'kpt.dev|Kptfile|default|LiamsBlueprint'
+    internal.kpt.dev/upstream-identifier: kpt.dev|Kptfile|default|LiamsBlueprint
 upstream:
   type: git
   git:
